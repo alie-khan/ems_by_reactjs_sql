@@ -1,0 +1,21 @@
+.logInPage{ 
+background: linear-gradient(rgba(10,10,10,0.5),rgba(10,10,10,0.5)),url("/public/Images/HR1.jpg");
+background-repeat :no-repeat;
+background-position:center;
+background-size: 100% 120%;
+}
+.logInForm{
+   background-color:rgba(74, 76, 73,0.8);
+   color:white;
+}
+.employee_img{
+   height:50px;
+   width:50px;
+   border-radius: 50%;
+   
+}
+.employee_img_detail{
+height:200px;
+width:200px;
+border-radius:50%;
+}
